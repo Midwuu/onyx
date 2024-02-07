@@ -7,4 +7,4 @@ depreciated python package too lazy to update LOL
 you can skid idgaf just know im gonna keep my bragging rights losers
 
 
-add me on discord Midwuu
+add me on discord qplw
