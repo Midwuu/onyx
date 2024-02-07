@@ -20,8 +20,10 @@ banner = """
 
 
 Welcome to Onyx.
-Coded by me - Midwuu
+developed by me - joy
 Any questions you got? add me and ill most likely respond
+
+https://discord.com/users/1094504745806340218
 _____________________________________________________________________
 """
 
